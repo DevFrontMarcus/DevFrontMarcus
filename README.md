@@ -1,7 +1,7 @@
 ### Olá eu sou o Marcus Vinicius e é um prazer ter voce aqui :) 
 
 
-- 🔭 Atualmente estou cursando Ciencia da computação na UNIP e estou a porucura de uma oportunidade para me desenvolver como Front End ....
+- 🔭 Atualmente estou cursando Ciencia da computação na UNIP e estou a porucura de uma oportunidade para me desenvolver como Desenvolvedor....
 - 📫 Para me contatar: devmarcusvinicius@gmail.com
 - ⚡ Super nerd
 
