@@ -1,8 +1,8 @@
-### Olá eu sou o Marcus Vinicius e é um prazer ter voce aqui :) 
+###Hello I'm Marcus Vinicius and it's a pleasure to have you here:) 
 
 
-- 🔭 Atualmente estou cursando Ciência da computação na Braz Cubas e estou a porucura de uma oportunidade  como Desenvolvedor....
-- 📫 Para me contatar: devmarcusvinicius@gmail.com
+- 🔭I'm currently studying Computer Science at Braz Cubas and I'm looking for an opportunity as a Developer....
+- 📫 to contact me: devmarcusvinicius@gmail.com
 - ⚡ Super nerd
 
 
