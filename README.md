@@ -2,8 +2,9 @@
 
 
 - 🔭I'm currently studying Computer Science at Braz Cubas and I'm looking for an opportunity as a Developer....
+- ⚡ Feel free to see my projects, here you can see codes and design arts.
 - 📫 to contact me: devmarcusvinicius@gmail.com
-- ⚡ Super nerd
+
 
 
 <div align="center">
