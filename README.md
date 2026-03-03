@@ -14,22 +14,18 @@ Hi there, I'm Marcus Vinicius (Vini) 👋
 
 🚀 Tech Stack
 
-<div style="display: inline-block; margin-bottom: 20px;">
-<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div align="left">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,html,css,py,cs%26theme%3Ddark" alt="Tech Stack" />
+</a>
 </div>
 
 📊 GitHub Stats
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://beacons.ai/DevFrontMarcus">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevFrontMarcus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrontMarcus&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://www.google.com/search?q=https://github.com/DevFrontMarcus">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDevFrontMarcus%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26bg_color%3D0d1117%26hide_border%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDevFrontMarcus%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight%26bg_color%3D0d1117%26hide_border%3Dtrue"/>
 </a>
 </div>
 
@@ -44,5 +40,10 @@ Hi there, I'm Marcus Vinicius (Vini) 👋
 <!-- Snake Animation -->
 
 <div align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/DevFrontMarcus/DevFrontMarcus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/DevFrontMarcus/DevFrontMarcus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
