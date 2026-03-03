@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/DevFrontMarcus">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D00BFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHi%2Bthere,%2BI%27m%2BMarcus%2BVinicius!%2B%25F0%259F%2591%258B%3BComputer%2BScience%2BStudent%3BFull%2BStack%2BDeveloper%2Bin%2Bthe%2Bmaking...%3BTurning%2Bideas%2Binto%2Bcode%2Band%2Bdesign." alt="Typing SVG" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=600%26size=28%26pause=1000%26color=00BFFF%26center=true%26vCenter=true%26width=600%26lines=Hi+there,+I'm+Marcus+Vinicius!+%F0%9F%91%8B;Computer+Science+Student;Full+Stack+Developer+in+the+making...;Turning+ideas+into+code+and+design." alt="Typing SVG" />
 </a>
 </div>
 
